@@ -5,7 +5,7 @@ A very  simple library to prompt for user input on the command line.
 
 ## Installation
 
-npm install getstring
+    npm install getstring
 
 ## Usage
 
